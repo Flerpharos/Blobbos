@@ -1,0 +1,31 @@
+Blobbo.png
+	size: 2048, 1024
+	repeat: none
+BLOB
+	bounds: 880, 720, 240, 240
+BLOB_LEFT
+	bounds: 880, 720, 240, 240
+BLOBB_ATTACK1
+	bounds: 320, 640, 320, 320
+BLOBB_ATTACK2
+	bounds: 0, 640, 320, 320
+BLOBB_ATTACK3
+	bounds: 0, 0, 320, 320
+BLOBB_ATTACK4
+	bounds: 0, 320, 320, 320
+BLOB_DOWN
+	bounds: 1120, 720, 240, 240
+BLOB_DOWNLEFT
+	bounds: 320, 400, 240, 240
+BLOB_DOWNRIGHT
+	bounds: 560, 160, 240, 240
+BLOB_FRONT
+	bounds: 640, 720, 240, 240
+BLOB_RIGHT
+	bounds: 1360, 720, 240, 240
+BLOB_UP
+	bounds: 560, 400, 240, 240
+BLOB_UPLEFT
+	bounds: 1600, 720, 240, 240
+BLOB_UPRIGHT
+	bounds: 320, 160, 240, 240

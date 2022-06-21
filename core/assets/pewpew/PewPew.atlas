@@ -1,0 +1,34 @@
+
+PewPew.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 37
+  size: 74, 20
+  orig: 74, 20
+  offset: 0, 0
+  index: 3
+bullet
+  rotate: false
+  xy: 2, 2
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: 4
+bullet
+  rotate: false
+  xy: 78, 39
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: 1
+bullet
+  rotate: false
+  xy: 48, 16
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: 2

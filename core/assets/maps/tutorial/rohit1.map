@@ -1,0 +1,56 @@
+#background image
+maps/tutorial/13.png
+
+#list of pathfinding points
+80, 44
+75, 44
+
+#pathfinding connections
+1 -> 0
+
+#enemy locations
+32, 35
+70, 28
+66, 79.5
+95.8, 48
+
+#player location
+20, 59
+
+#entity colliders
+72.8, 0 -> 102.9, 0 -> 102.9, 12.6 -> 72.8, 12.6
+88, 0 -> 102.9, 0 -> 102.9, 31.3 -> 88, 31.3
+80.7, 86.8 -> 102.9, 86.8 -> 102.9, 46 -> 80.7, 46
+0, 0 -> 103, 0 -> 104, -1 -> -1, -1
+104, -1 -> 103, 0 -> 103, 86.8 -> 104, 87.8
+104, 87.8 -> 103, 86.8 -> 0, 86.8 -> -1, 87.8
+-1, 87.8 -> 0, 86.8 -> 0, 0 -> -1, -1
+
+#bullet colliders
+
+#bullet reflectors
+
+#obstacles
+BUSH: 12, 41.2
+BUSH: 50, 74.5
+WALL: 9.5, 74
+WALL: 22.5, 74
+ROCK: 71.2, 74
+BUSH: 71.2, 55
+WALL: 71.2, 35
+WALL: 71.2, 30
+WALL: 71.2, 25
+ROCK: 65, 7.5
+ROCK: 40, 27
+BUSH: 51, 50
+BUSH: 8.5, 15
+BUSH: 15.8, 15
+
+#Cutscene Text
+Kill these Blobbos to win the level.
+
+#Cutscene Audio FIle
+
+#Points
+200
+#END OF FILE

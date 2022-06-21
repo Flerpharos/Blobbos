@@ -1,0 +1,237 @@
+
+GroundTiles.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+corner_bottemRight
+  rotate: false
+  xy: 658, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+corner_bottmLeft
+  rotate: false
+  xy: 166, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+corner_topRight
+  rotate: false
+  xy: 658, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+corner_topleft
+  rotate: false
+  xy: 740, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 248, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass-left
+  rotate: false
+  xy: 248, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass_center
+  rotate: false
+  xy: 576, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grass_right
+  rotate: false
+  xy: 494, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ground-side
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ground-side (2)
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassSide_right
+  rotate: false
+  xy: 84, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+groundBase
+  rotate: false
+  xy: 330, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+groundCorner_bottemleft
+  rotate: false
+  xy: 84, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+groundCorner_bottemright
+  rotate: false
+  xy: 412, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+groundCorner_topleft
+  rotate: false
+  xy: 330, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+groundCorner_topright
+  rotate: false
+  xy: 412, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassCorner_bottemLeft
+  rotate: false
+  xy: 2, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassCorner_bottemRight
+  rotate: false
+  xy: 494, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassCorner_topLeft
+  rotate: false
+  xy: 248, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassCorner_topRight
+  rotate: false
+  xy: 330, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ground-corner
+  rotate: false
+  xy: 330, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassRight
+  rotate: false
+  xy: 2, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassSide_left
+  rotate: false
+  xy: 2, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+road_grassSide_bottem
+  rotate: false
+  xy: 740, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 494, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassCorner_bottemLeft
+  rotate: false
+  xy: 166, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassCorner_bottemRight
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassCorner_topLeft
+  rotate: false
+  xy: 412, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassCorner_topRight
+  rotate: false
+  xy: 658, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassSide_bottem
+  rotate: false
+  xy: 576, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassSide_left
+  rotate: false
+  xy: 84, 84
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassSide_right
+  rotate: false
+  xy: 166, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+water_grassSide_top
+  rotate: false
+  xy: 576, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

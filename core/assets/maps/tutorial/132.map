@@ -1,0 +1,59 @@
+#background image
+maps/tutorial/13.png
+
+#list of pathfinding points
+80, 44
+75, 44
+
+#pathfinding connections
+1 -> 0
+
+#enemy locations
+70, 28
+20, 28
+45, 15
+10, 50
+66, 79.5
+95.8, 48
+
+#player location
+50, 35
+
+#entity colliders
+72.8, 0 -> 102.9, 0 -> 102.9, 12.6 -> 72.8, 12.6
+88, 0 -> 102.9, 0 -> 102.9, 31.3 -> 88, 31.3
+80.7, 86.8 -> 102.9, 86.8 -> 102.9, 46 -> 80.7, 46
+0, 0 -> 103, 0 -> 104, -1 -> -1, -1
+104, -1 -> 103, 0 -> 103, 86.8 -> 104, 87.8
+104, 87.8 -> 103, 86.8 -> 0, 86.8 -> -1, 87.8
+-1, 87.8 -> 0, 86.8 -> 0, 0 -> -1, -1
+
+#bullet colliders
+
+#bullet reflectors
+
+#obstacles
+ROCK: 11, 44
+BUSH: 17.5, 72
+ROCK: 71.2, 74
+HIGHWALL: 71.2, 32.5
+WALL: 50, 75
+WALL: 50, 70
+WALL: 50, 65
+ROCK: 65, 7.5
+ROCK: 34, 27
+ROCK: 49, 27
+ROCK: 92, 40
+BUSH: 51, 50
+BUSH: 8.5, 15
+BUSH: 15.8, 15
+
+#Cutscene Text
+Blobbos Trapped
+
+#Cutscene Audio FIle
+audio/blobbos-trapped.mp3
+
+#Points
+0
+#END OF FILE

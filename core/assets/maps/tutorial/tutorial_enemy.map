@@ -1,0 +1,43 @@
+#background image
+maps/tutorial/1.2.png
+
+#list of pathfinding points
+80, 44
+
+#pathfinding connections
+#empty
+
+#enemy locations
+80, 44
+
+#player location
+12, 44
+
+#entity colliders
+58, 38 -> 75, 38 -> 75, 50 -> 58, 50
+58, 26 -> 100, 26 -> 100, 39 -> 58, 39
+83, 38 -> 100, 38 -> 100, 50 -> 83, 50
+58, 60 -> 58, 49 -> 100, 49 -> 100, 60
+0, 0 -> 103, 0 -> 104, -1 -> -1, -1
+-1, -1 -> 0, 0 -> 0, 87 -> -1, 88
+-1, 88 -> 0, 87 -> 103, 87 -> 104, 88
+103, 87 -> 104, 88 -> 104, -1 -> 103, 0
+
+#bullet colliders
+
+#bullet reflectors
+
+#obstacles
+BUSH: 43, 44
+BUSH: 43, 50
+BUSH: 43, 38
+
+#Cutscene Text
+Press SPACE to Attack and WASD to move around
+
+#Cutscene Audio FIle
+audio/killblobbo.mp3
+
+#Points
+1000
+#END OF FILE

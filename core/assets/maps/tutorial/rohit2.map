@@ -1,0 +1,55 @@
+#background image
+maps/tutorial/1..png
+
+#list of pathfinding points
+80, 44
+
+#pathfinding connections
+#empty
+
+#enemy locations
+28, 7.5
+93.8, 7.5
+66.6, 67.6
+30, 68.4
+3.3, 58.8
+46.4, 27.4
+
+#player location
+50, 43.4
+
+#entity colliders
+0, 86.8 -> 21.6, 86.8 -> 21.6, 65.7 -> 0, 65.7
+0, 51.8 -> 37.5, 51.8 -> 37.5, 16.3 -> 0, 16.3
+72.5, 85.3 -> 102.9, 85.3 -> 102.9, 49.5 -> 72.5, 49.5
+0, 0 -> 103, 0 -> 104, -1 -> -1, -1
+104, -1 -> 103, 0 -> 103, 86.8 -> 104, 87.8
+104, 87.8 -> 103, 86.8 -> 0, 86.8 -> -1, 87.8
+-1, 87.8 -> 0, 86.8 -> 0, 0 -> -1, -1
+
+#bullet colliders
+
+#bullet reflectors
+
+#obstacles
+BUSH: 79, 31.5
+BUSH: 63, 31.5
+ROCK: 67, 82
+ROCK: 29.5, 77.5
+ROCK: 93.6, 28.8
+ROCK: 7.8, 7.8
+BUSH: 51, 75
+BUSH: 51, 67
+BUSH: 51, 60
+WALL: 52, 10
+WALL: 65, 10
+WALL: 77, 10
+
+#Cutscene Text
+More Blobbos! Destroy these ones as well!
+
+#Cutscene Audio FIle
+
+#Points
+500
+#END OF FILE
